@@ -1,0 +1,811 @@
+@media only screen and (max-width:1320px){
+    /* slider */
+    .item img {
+        height: 631px;
+    }
+    .owl-dots {
+        left: 44%;
+    }
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 40px;
+        line-height: 52px;
+        font-weight: 600;
+    }
+    .slider-text, .slider-text1, .slider-text2 {
+        top: 14rem;
+    }
+    /*Product*/
+    .product-itom {
+        height: 300px;
+    }
+    .overlay img {
+        margin-left: 10px;
+        margin-top: 10px;
+        height: 50px;
+        width: 50px;
+    }
+    .overlay {
+        gap: 12px;
+    }
+    .text h5 {
+        margin-top: 26px;
+        font-weight: 600;
+        letter-spacing: normal;
+    }
+    .text p {
+        left: -57px;
+        width: 280px;
+        font-size: 14px;
+    }
+    .text a {
+        top: 1rem;
+    }
+    /* strategies */
+    .strategies-head h1 {
+        font-size: 2.3rem;
+    }
+    .strategies-sub-grid span {
+        font-size: 47px;
+    }
+    #strategies {
+        padding: 9rem;
+    }
+    /* testimonial */
+    .inner-testimonial i {
+        right: 55px;
+        font-size: 19px;
+        bottom: 13px;
+    }
+    .inner-testimonial img {
+        height: 100px;
+        width: 100px;
+        margin-bottom: 1.2rem;
+        margin-left: 0rem;
+    }
+    .testimonial-headline h2 {
+        margin-bottom: 3.5rem;
+        margin-top: 3.5rem;
+    }
+    .swiper-wrapper {
+        padding-bottom: 5rem;
+    }
+    /* contact */
+    .name-no input {
+        width: 46.9%;
+        height: 54px;
+        font-size: 16px;
+    }
+    .mail input {
+        width: 46.9%;
+        height: 54px;
+    }
+    .message textarea {
+        width: 97%;
+        height: 100px;
+    }
+    .get-in-touch h3 {
+        margin-bottom: 20px;
+        font-size: 29px;
+    }
+    .contact h3 {
+        font-size: 26px;
+    }
+    .office-address h4, .office-number h4, .office-hour h4, .office-mail h4 {
+        font-size: 16px;
+    }
+    .address span, .number span, .hour span, .mail1 span {
+        font-size: 27px;
+    }
+    .address p, .number p, .hour p, .mail1 p{
+        font-size: 14px;
+    }
+    .address, .number, .hour, .mail1 {
+        margin-bottom: 5px;
+    }
+    .office-hour a {
+        font-size: 17px;
+        margin-top: 8px;
+    }
+}
+@media only screen and (max-width:1200px){
+    /* strategies */
+    .strategies-sub-grid h2 {
+        font-size: 1.1rem;
+        margin-top: 3px;
+    }
+    /* contact */
+    .contact {
+        padding-left: 0rem;
+    }
+    .contact h3 {
+        font-size: 25px;
+    }
+    .get-in-touch h3 {
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width:1024px){
+/* slide */
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 38px;
+        line-height: 45px;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        letter-spacing: 0.5px;
+        font-size: 15px;
+    }
+    .owl-carousel button.owl-dot {
+        margin: 0 6px;
+    }
+    .owl-dots {
+        bottom: 1rem;
+    }
+    /* product */
+    .inner-product {
+        margin: 0 0px;
+    }
+    .text p {
+        left: -56px;
+        width: 269px;
+    }
+    .overlay {
+        gap: 10px;
+    }
+    /* strategies */
+    .strategies-head h1 {
+        font-size: 2rem;
+        line-height: 3.5rem;
+    }
+    .strategies-head h1::before {
+        height: 110px;
+        top: 6px;
+    }
+    .strategies-sub-grid h2 {
+        font-size: 12px;
+        margin-top: 6px;
+    }
+    .strategies-sub-grid span {
+        font-size: 40px;
+    }
+    /* testimonial */
+    .inner-testimonial img {
+        height: 120px;
+        width: 120px;
+    }
+    .testimonial-headline h2 {
+        font-size: 28px;
+    }
+    .inner-testimonial i {
+        right: 108px;
+        font-size: 18px;
+        bottom: 16px;
+    }
+    /* contact */
+    .name-no input {
+        width: 46.8%;
+        height: 50px;
+    }
+    .mail input {
+        width: 46.8%;
+        height: 50px;
+    }
+    .address, .number, .hour, .mail1 {
+        margin-bottom: 5px;
+    }
+    .contact-inner::after {
+        height: 180px;
+        width: 180px;
+    }
+    .contact h3 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .office-address h4, .office-number h4, .office-hour h4, .office-mail h4 {
+        font-size: 15px;
+    }
+    .address p, .number p, .hour p, .mail1 p {
+        font-size: 13px;
+    }
+    .office-hour a {
+        font-size: 14px;
+        margin-top: 6px;
+    }
+}
+@media only screen and (max-width:992px){
+    /* strategies */
+    .strategies-sub-grid h2 {
+        letter-spacing: 0px;
+    }
+    /* contact */
+    .name-no input {
+        width: 98%;
+        height: 50px;
+        margin-bottom: 15px;
+    }
+    .name-no {
+        margin-bottom: 0px;
+    }
+    .mail input {
+        width: 98%;
+        height: 50px;
+        margin-bottom: 15px;
+    }
+    .contact-inner {
+        padding: 2rem 2rem;
+    }
+    .contact-inner::after {
+        background-color: #004c1829;
+        clip-path: polygon(50% 0%, 100% 0, 100% 50%);
+    }
+}
+@media only screen and (max-width:880px){
+    /* nav */
+    .navbar-nav {
+        background-color: #000000;
+        text-align: center;
+        gap: 30px;
+        padding: 2rem;
+        width: 100%;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 0rem;
+    }
+    .nav-link::after{
+        border: none;
+    }
+    .itom{
+        color: rgb(255, 255, 255);
+        font-family: 'Open Sans', sans-serif;
+    }
+    #menuToggle {
+        margin-right: 2rem;
+    }
+    /* product */
+    .product-itom {
+        height: 330px;
+        margin-bottom: 30px;
+    }
+    .text p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 35px;
+        left: -45px;
+    }
+    .text h5 {
+        letter-spacing: 1px;
+        font-size: 27px;
+        margin-top: 25px;
+        margin-left: 11rem;
+    }
+    .overlay img {
+        margin-top: 10px;
+        height: 60px;
+        width: 60px;
+        margin-right: 15px;
+        position: relative;
+        left: 11rem;
+    }
+    .text a {
+        top: 1.5rem;
+        left: 11rem;
+    }
+    .main-text{
+        margin-right: 2rem;
+    }
+    .lay2 img{
+        position: relative;
+        left: 100px;
+    }
+    .main-text h5{
+        margin-left: 6rem;
+    }
+    .inner-product {
+        margin: 0 40px;
+    }
+    .text a {
+        top: 1.5rem;
+        left: 9rem;
+    }
+    /* strategies */
+    .strategies-sub-grid {
+        margin-bottom: 4rem;
+    }
+    .strategies-sub-grid span {
+        font-size: 50px;
+    }
+    .strategies-sub-grid h2 {
+        font-size: 18px;
+        margin-top: 2px;
+        letter-spacing: 1px;
+    }
+    #strategies {
+        padding: 3rem 0 0 11rem;
+    }
+    /* contact */
+    .contact-inner {
+        background: linear-gradient(
+    90deg,white 49%,#004c18 34%);
+    }
+}
+@media only screen and (max-width:768px){
+    /* nav */
+    .navbar img {
+        margin-left: 1rem;
+    }
+    /* slider */
+    .slider-text, .slider-text1, .slider-text2 {
+        top: 12rem;
+    }
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 35px;
+        line-height: 43px;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .owl-dots {
+        left: 42%;
+    }
+    /* product */
+    .inner-product {
+        margin: 0 52px;
+    }
+    .text h5 {
+        letter-spacing: 1px;
+        font-size: 27px;
+        margin-top: 25px;
+        margin-left: 10rem;
+    }
+    .main-text h5{
+        margin-left: 99px !important;
+    }
+    /* strategies */
+    #strategies {
+        padding: 3rem 0 0 8rem;
+    }
+    /* testimonial */
+    .testimonial-headline h2 {
+        margin-bottom: 2.5rem;
+        margin-top: 2.5rem;
+    }
+}
+@media only screen and (max-width:664px){
+/* slide */
+    .slider-text, .slider-text1, .slider-text2 {
+        left: 3rem;
+        top: 15rem;
+    }
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 27px;
+        line-height: 35px;
+        margin-bottom: 8px !important;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    /* product */
+    .inner-product {
+        margin: 0 0px;
+    }
+    .overlay img {
+        height: 55px;
+        width: 55px;
+        left: 9rem;
+    }
+    .text h5 {
+        font-size: 25px;
+        margin-top: 24px;
+        margin-left: 8rem;
+    }
+    .text a {
+        top: 0.5rem;
+        left: 7rem;
+    }
+   .lay2 img{
+        margin-left: -65px !important;
+    }
+    .main-text h5 {
+        margin-left: 132px !important;
+    }
+    .main-text p{
+        left: 7px;
+    }
+    .main-text a{
+        left: 11rem;
+    }
+    /* strategies */
+    #strategies {
+        padding: 3rem 0 0 5rem;
+    }
+    /* testimonial */
+    .inner-testimonial i {
+        right: 70px;
+        font-size: 22px;
+        bottom: 15px;
+    }
+    /* contact */
+    .contact-inner {
+        background: linear-gradient( 
+    180deg,white 54%,#004c18 34%);
+    }
+    .get-in-touch{
+        margin-bottom: 35px;
+    }
+    .get-in-touch {
+        margin-bottom: 72px;
+    }
+    .contact h3 {
+        font-size: 26px;
+        margin-bottom: 27px;
+    }
+    .get-in-touch h3 {
+        font-size: 26px;
+    }
+}
+@media only screen and (max-width:540px){
+    /* nav */
+    .navbar img {
+        width: 176px;
+        height: 64px;
+        object-fit: cover;
+    }
+    .nav-link {
+        line-height: 15px;
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+    /* slider */
+    .owl-dots {
+        left: 40%;
+    }
+    /* product */
+    
+    /* strategies */
+    .strategies-head h1 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+        margin-bottom: 3rem;
+    }
+    .strategies-sub-grid {
+        margin-bottom: 3rem;
+    }
+    /* testimonial */
+    .inner-testimonial i {
+        right: 68px;
+        font-size: 23px;
+        bottom: 13px;
+    }
+}
+@media only screen and (max-width:420px){
+    /* navbar */
+    .navbar img {
+        width: 141px;
+        height: 59px;
+        object-fit: cover;
+    }
+    /* slide */
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 7px !important;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        margin-bottom: 30px !important;
+    }
+    .owl-dots {
+        left: 34%;
+    }
+    .owl-carousel button.owl-dot {
+        width: 30px;
+    }
+    /* product */
+    .overlay img {
+        left: 5rem;
+    }
+    .text h5 {
+        font-size: 23px;
+        margin-top: 26px;
+        margin-left: 4rem;
+    }
+    .main-text h5 {
+        margin-left: 68px !important;
+        font-size: 21px;
+    }
+    .text p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .text a {
+        top: 1.3rem;
+        left: 3rem;
+    }
+    .main-text a {
+        left: 7.5rem;
+        top: 2rem;
+    }
+    /* strategies */
+    .strategies-head h1::before {
+        height: 110px;
+        top: 2px;
+    }
+    .strategies-head h1 {
+        font-size: 1.5rem;
+        line-height: 2.3rem;
+        margin-bottom: 4rem;
+    }
+    /* testimonial */
+    .inner-testimonial i {
+        right: 120px;
+    }
+    .inner-testimonial img {
+        height: 115px;
+        width: 115px;
+    }
+    /* contact */
+    .contact-inner {
+        padding: 2rem 0.6rem;
+        width: 314px;
+        position: relative;
+        left: -35px;
+    }
+}
+@media only screen and (max-width:400px){
+    /* slider */
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 24px;
+        line-height: 31px;
+        margin-bottom: 4px !important;
+    }
+    .slider-text, .slider-text1, .slider-text2 {
+        left: 1rem;
+        top: 15rem;
+    }
+    /* product */
+    .overlay img {
+        height: 48px;
+        width: 48px;
+        left: 3.5rem;
+        top: 6px;
+    }
+    .text h5 {
+        font-size: 22px;
+        margin-top: 26px;
+        margin-left: 2.6rem;
+    }
+    .text a {
+        top: 0.3rem;
+        left: 1rem;
+    }
+    .lay2 img {
+        margin-left: -47px !important;
+    }
+    .main-text h5 {
+        margin-left: 45px !important;
+        font-size: 20px;
+    }
+    .main-text a{
+        margin-left: 4rem;
+    }
+    #contact-info {
+        overflow: hidden;
+    }
+    /* strategies */
+    #strategies {
+        padding: 3rem 0 0 4rem;
+    }
+    /* testimonial */
+    .testimonial-headline h2 {
+        margin-bottom: 1.5rem;
+        margin-top: -2.5rem;
+    }
+    .inner-testimonial i {
+        right: 58px;
+        font-size: 21px;
+    }
+    .swiper-wrapper {
+        padding-bottom: 3rem;
+    }
+    .contact-inner {
+        padding: 1rem 0.6rem;
+        left: 18px;
+    }
+    #contact-info {
+        background-color: #d3d3d324;
+        padding:1.5rem 0rem;
+        margin-top: 3rem;
+    }
+    .contact-inner::after {
+        height: 160px;
+        width: 160px;
+    }
+}
+@media only screen and (max-width:360px){
+    .whatsapp a {
+        font-size: 16px;
+        padding: 11px 12px;
+    }
+    .main-text h5 {
+        margin-left: 37px !important;
+        font-size: 20px;
+    }
+    .inner-testimonial i {
+        right: 101px;
+        font-size: 18px;
+        bottom: 17px;
+    }
+    .contact-inner {
+        left: 12px;
+    }
+}
+@media only screen and (max-width:320px){
+    .navbar img {
+        width: 124px;
+        height: 56px;
+    }
+
+    /* slide */
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 21px;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        font-size: 14px;
+    }
+    .btn-1 {
+        padding: 8px 8px;
+        font-size: 14px;
+    }
+    .slider-text, .slider-text1, .slider-text2 {
+        left: 1rem;
+        top: 16rem;
+    }
+    .owl-carousel button.owl-dot {
+        width: 23px;
+    }
+    /* product */
+    .overlay img {
+        left: 2.5rem;
+        top: 9px;
+    }
+    .text h5 {
+        font-size: 21px;
+        margin-top: 32px;
+        margin-left: 1.5rem;
+    }
+    .text p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .text a {
+        top: 0rem;
+        left: 0rem;
+    }
+    .main-text h5 {
+        margin-left: 34px !important;
+        font-size: 20px !important;
+        text-align: center;
+        margin-top:21px;
+        margin-bottom: 14px;
+    }
+    .lay2 img {
+        margin-left: 0 !important;
+    }
+    .owl-carousel button.owl-dot {
+    width: 23px;
+    }
+    .main-text p {
+        left: -19px;
+    }
+    .main-text a {
+        margin-left: 0rem;
+    }
+    /* strategies */
+    .strategies-head h1 {
+        font-size: 1.2rem;
+        line-height: 2rem;
+        margin-bottom: 3rem;
+    }
+    .strategies-head h1::before {
+        height: 98px;
+    }
+    .strategies-sub-grid span {
+        font-size: 38px;
+    }
+    .strategies-sub-grid h2 {
+        font-size: 14px;
+    }
+    /* testimonial */
+    .inner-testimonial i {
+        right: 35px;
+        font-size: 17px;
+        bottom: 14px;
+    }
+    /* contact */
+    #contact-info {
+        padding: 0rem 0rem;
+        margin-top: 5rem;
+    }
+    .contact-inner {
+        padding: 0rem 1rem;
+        left: -12px;
+        width: 320px;
+    }
+    .contact {
+        padding-left: 0rem;
+        padding-bottom: 10px;
+    }
+}
+@media only screen and (max-width: 280px){
+    /* slider */
+    .btn-1 {
+        padding: 8px 8px;
+        font-size: 11px;
+    }
+    .slider-text h1, .slider-text1 h1, .slider-text2 h1 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        font-size: 12px;
+    }
+    .slider-text p, .slider-text1 p, .slider-text2 p {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    /* product */
+    .product-headline h2 {
+        font-size: 24px;
+    }
+    .text p {
+        font-size: 11px;
+        line-height: 20px;
+        top: 10px;
+    }
+    .text h5 {
+        font-size: 18px;
+        margin-top: 34px;
+        margin-left: 0.8rem;
+    }
+    .overlay img {
+        left: 2rem;
+    }
+    .text a {
+        top: 0rem;
+        left: -1rem;
+        font-size: 0.8rem;
+    }
+    .main-text h5 {
+        margin-left: 11px !important;
+        font-size: 18px !important;
+        text-align: center;
+        margin-top: 28px;
+        margin-bottom: 13px;
+    }
+    .lay2 img {
+        margin-left: -10px !important;
+    }
+    .main-text a {
+        margin-left: 1rem;
+        top: 1.5rem;
+    }
+    /* strategies */
+    #strategies {
+        padding: 3rem 0 0 3rem;
+    }
+    .strategies-head h1::before {
+        height: 126px;
+    }
+    .inner-testimonial i {
+        right: 64px;
+        font-size: 16px;
+        bottom: 15px;
+    }
+    .contact-inner {
+        padding: 0rem 1rem;
+        left: -12px;
+        width: 283px;
+    }
+}
